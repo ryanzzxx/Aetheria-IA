@@ -2,7 +2,7 @@ Aetheria AI é uma plataforma de inteligência documental de próxima geração,
 
 Motor Cognitivo de Ponta: Integração nativa com a API Google GenAI (Gemini 2.5/3.1), permitindo análises contextuais profundas em milissegundos.
 
-Interface Liquid Glass: UI customizada via CSS Injection, apresentando efeitos de transparência extrema, backdrop blur dinâmico e bordas neon verde lima.
+Interface: UI customizada via CSS Injection, apresentando efeitos de transparência extrema, backdrop blur dinâmico e bordas neon verde lima.
 
 Fluxos de Ação Rápida: Botões pré-configurados para Resumo Executivo, Extração de Insights e Auditoria de Erros Lógicos.
 
